@@ -1,0 +1,8 @@
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\bin\Debug\ProyectoColegio.exe.config
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\bin\Debug\ProyectoColegio.exe
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\bin\Debug\ProyectoColegio.pdb
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\obj\Debug\ProyectoColegio.csproj.AssemblyReference.cache
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\obj\Debug\ProyectoColegio.csproj.CoreCompileInputs.cache
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\obj\Debug\ProyectoColegio.exe
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\obj\Debug\ProyectoColegio.pdb
+C:\Users\jennz\OneDrive\Documentos\ProyectoColegio\obj\Debug\ProyectoColegio.exe.config

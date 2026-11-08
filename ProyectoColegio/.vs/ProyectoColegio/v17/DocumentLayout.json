@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\estudiantes\\agregarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:estudiantes\\agregarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\profesores\\agregarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:profesores\\agregarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\login\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:login\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\archivos\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:archivos\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\profesores\\listarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:profesores\\listarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\estudiantes\\listarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:estudiantes\\listarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\estudiantes\\reactivarestudiante.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:estudiantes\\reactivarestudiante.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\profesores\\reactivarprofesor.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:profesores\\reactivarprofesor.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\profesores\\desactivarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:profesores\\desactivarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\estudiantes\\desactivarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:estudiantes\\desactivarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\login\\gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:login\\gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\utilidades\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:utilidades\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\archivos\\archivodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:archivos\\archivodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\archivos\\archivoslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:archivos\\archivoslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\modelos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:modelos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|c:\\users\\jennz\\onedrive\\documentos\\proyectocolegio\\interfaz\\ipersistible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD824CC8-BBF6-4564-AA38-91EE1DF8485A}|ProyectoColegio.csproj|solutionrelative:interfaz\\ipersistible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReactivarEstudiante.cs.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\ReactivarEstudiante.cs.cs",
+              "RelativeDocumentMoniker": "Estudiantes\\ReactivarEstudiante.cs.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\ReactivarEstudiante.cs.cs",
+              "RelativeToolTip": "Estudiantes\\ReactivarEstudiante.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T00:36:36.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\AgregarEstudiante.cs",
+              "RelativeDocumentMoniker": "Estudiantes\\AgregarEstudiante.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\AgregarEstudiante.cs",
+              "RelativeToolTip": "Estudiantes\\AgregarEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:53:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\ListarEstudiante.cs",
+              "RelativeDocumentMoniker": "Estudiantes\\ListarEstudiante.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\ListarEstudiante.cs",
+              "RelativeToolTip": "Estudiantes\\ListarEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:54:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\AgregarProfesor.cs",
+              "RelativeDocumentMoniker": "Profesores\\AgregarProfesor.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\AgregarProfesor.cs",
+              "RelativeToolTip": "Profesores\\AgregarProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:55:42.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Login\\Autenticacion.cs",
+              "RelativeDocumentMoniker": "Login\\Autenticacion.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Login\\Autenticacion.cs",
+              "RelativeToolTip": "Login\\Autenticacion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:52:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:43:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\ListarProfesor.cs",
+              "RelativeDocumentMoniker": "Profesores\\ListarProfesor.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\ListarProfesor.cs",
+              "RelativeToolTip": "Profesores\\ListarProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:56:04.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exportador.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\Exportador.cs",
+              "RelativeDocumentMoniker": "Archivos\\Exportador.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\Exportador.cs",
+              "RelativeToolTip": "Archivos\\Exportador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:49:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesactivarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\DesactivarEstudiante.cs",
+              "RelativeDocumentMoniker": "Estudiantes\\DesactivarEstudiante.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Estudiantes\\DesactivarEstudiante.cs",
+              "RelativeToolTip": "Estudiantes\\DesactivarEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:55:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReactivarProfesor.cs.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\ReactivarProfesor.cs.cs",
+              "RelativeDocumentMoniker": "Profesores\\ReactivarProfesor.cs.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\ReactivarProfesor.cs.cs",
+              "RelativeToolTip": "Profesores\\ReactivarProfesor.cs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T00:37:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Login\\GestionUsuarios.cs",
+              "RelativeDocumentMoniker": "Login\\GestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Login\\GestionUsuarios.cs",
+              "RelativeToolTip": "Login\\GestionUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:52:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesactivarProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\DesactivarProfesor.cs",
+              "RelativeDocumentMoniker": "Profesores\\DesactivarProfesor.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Profesores\\DesactivarProfesor.cs",
+              "RelativeToolTip": "Profesores\\DesactivarProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:56:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Validador.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Utilidades\\Validador.cs",
+              "RelativeDocumentMoniker": "Utilidades\\Validador.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Utilidades\\Validador.cs",
+              "RelativeToolTip": "Utilidades\\Validador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:56:51.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArchivoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\ArchivoDatos.cs",
+              "RelativeDocumentMoniker": "Archivos\\ArchivoDatos.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\ArchivoDatos.cs",
+              "RelativeToolTip": "Archivos\\ArchivoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:49:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArchivosLogs.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\ArchivosLogs.cs",
+              "RelativeDocumentMoniker": "Archivos\\ArchivosLogs.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Archivos\\ArchivosLogs.cs",
+              "RelativeToolTip": "Archivos\\ArchivosLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:49:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:47:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Profesor.cs",
+              "RelativeDocumentMoniker": "Modelos\\Profesor.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Profesor.cs",
+              "RelativeToolTip": "Modelos\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:48:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Estudiante.cs",
+              "RelativeToolTip": "Modelos\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T23:47:54.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Modelos\\Persona.cs",
+              "RelativeToolTip": "Modelos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T00:03:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPersistible.cs",
+              "DocumentMoniker": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Interfaz\\IPersistible.cs",
+              "RelativeDocumentMoniker": "Interfaz\\IPersistible.cs",
+              "ToolTip": "C:\\Users\\jennz\\OneDrive\\Documentos\\ProyectoColegio\\Interfaz\\IPersistible.cs",
+              "RelativeToolTip": "Interfaz\\IPersistible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T00:05:40.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+==================================================
+          REPORTE OFICIAL - PROYECTO COLEGIO      
+          Generado por: Victor           
+          Fecha: 7/11/2026 19:09:10                   
+==================================================
+
+----------------- ESTUDIANTES --------------------
+[ID: 1] Cédula: 1011609831001K | Jose Hernandez | Edad: 8 | Estado: INACTIVO
+
+------------------ PROFESORES --------------------
